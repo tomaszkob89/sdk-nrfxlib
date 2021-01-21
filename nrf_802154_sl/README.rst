@@ -41,6 +41,6 @@ To use the library:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Subpages:
 
    CHANGELOG
